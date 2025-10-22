@@ -2,8 +2,9 @@
 
 This project is a Streamlit web application that predicts the likelihood of Tuberculosis (TB) based on clinical symptom data using a Random Forest model. It incorporates Explainable AI (XAI) by identifying key predictive factors and generates a human-readable report with risk analysis and visualizations.
 
-<!-- Add your application screenshot here -->
+
 ![App Screenshot](screenshot1.png) 
+
 ![App Screenshot](screenshot2.png) 
 
 
@@ -29,7 +30,7 @@ This project is a Streamlit web application that predicts the likelihood of Tube
     ```
 3.  **Run the Streamlit app:**
     ```bash
-    streamlit run tb_app.py
+    streamlit run main.py
     ```
 4.  Open your web browser to the local URL provided by Streamlit.
 
