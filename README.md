@@ -47,4 +47,4 @@ The application uses `tuberculosis_dataset.csv`, a synthetically modified datase
 
 ## 🤝 Collaborators
 
-* **Student 1 Name (PRN)** - [Optional: GitHub Profile Link]
+* **[Shruti Patil](https://github.com/shruti182004)** 
