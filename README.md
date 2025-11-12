@@ -17,6 +17,11 @@ This project is a Streamlit web application that predicts the likelihood of Tube
 * Two modes: Predict for a new patient via form input, or look up an existing patient by ID.
 * Uses a modified synthetic dataset (`tuberculosis_dataset.csv`) for demonstration purposes.
 
+## 🤝 Collaborators
+
+* **[Shruti Patil](https://github.com/shruti182004)**
+* **[Saakshi Nalawade](https://github.com/saakshinalawade)** 
+
 ## 🚀 How to Run
 
 1.  **Clone the repository:**
@@ -46,7 +51,3 @@ The application uses `tuberculosis_dataset.csv`, a synthetically modified datase
 * Altair
 * NumPy
 
-## 🤝 Collaborators
-
-* **[Shruti Patil](https://github.com/shruti182004)**
-* **[Saakshi Nalawade](https://github.com/saakshinalawade)** 
